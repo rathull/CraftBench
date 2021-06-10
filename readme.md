@@ -1,6 +1,7 @@
 # CraftBench
 
 CraftBench is a gamified project-based learning application. It helps you divide large projects into smaller tasks to work and collaborate on in an entertaining and educational way. Rather than focusing on stressful deadlines, CraftBench encourages motivation through subtopic division, gamification, and interactive UI, and more!\
+Live site at [https://github.com/ranand-creator/Craftbench-Backend](https://github.com/ranand-creator/Craftbench-Backend)
 CraftBench was created for the [ThetaHacks hackathon](https://thetahacks.tech/)\
 See our presentation and demonstration here: [https://www.youtube.com/watch?v=7SYwerXP02w](https://www.youtube.com/watch?v=7SYwerXP02w)
 
