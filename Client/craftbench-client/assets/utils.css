@@ -1,0 +1,47 @@
+:root {
+    --primary: #28c1cc;
+    --danger: #EF6461;
+    --info: #197278;
+    --dark: #231123;
+    --light: #EDDDD4;
+    --success: #53DD6C;
+    --warning: #F9DC5C;
+}
+
+*,
+input,
+select,
+textarea {
+    font-family: "Space Mono";
+}
+
+
+/* Page change transition */
+
+.page-enter-active,
+.page-leave-active {
+    transition: opacity .5s ease-in-out
+}
+
+.page-enter,
+.page-leave-active {
+    opacity: 0
+}
+
+
+/* pull into view transition */
+
+@keyframes pull-up {
+    from {
+        opacity: 0;
+        transform: translateY(10rem);
+    }
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+.pull-up {
+    animation: pull-up 0.5s ease-in-out;
+}

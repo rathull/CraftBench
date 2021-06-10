@@ -1,0 +1,49 @@
+{
+  "name": "English Final 1",
+  "desc": "Final Project",
+  "tasks": [
+    {
+      "name": "Essay",
+      "sub_tasks": [
+        {
+          "name": "Intro",
+          "completed": true
+        },
+        {
+          "name": "Bodies",
+          "completed": false
+        },
+        {
+          "name": "Conclusion",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Powerpoint",
+      "sub_tasks": [
+        {
+          "name": "Intro",
+          "completed": false
+        },
+        {
+          "name": "Bodies",
+          "completed": false
+        },
+        {
+          "name": "Conclusion",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Present",
+      "sub_tasks": [
+        {
+          "name": "Speech",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
